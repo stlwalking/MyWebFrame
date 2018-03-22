@@ -28,7 +28,8 @@
  8. git checkout 分支名 切换到分支
  9. git branch 查看所在的分支名
  10. git checkout -b li 切换与创建一个新的分支
-
+ 11. git branch -d 分支名 删除分支
+ 12. git checkout master   |  git merge lh 合并分支
 
 
 
