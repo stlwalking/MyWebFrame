@@ -30,10 +30,20 @@
  10. git checkout -b li 切换与创建一个新的分支
  11. git branch -d 分支名 删除分支
  12. git checkout master   |  git merge lh 合并分支
+ 13. git push --set-upstream origin li 在远程仓库上开一条li的分支
 
 
 
 
+==================================下面是标签相关命令==========================================
+
+
+  1. git tag v1.0  创建标签
+  2. git checkout v1.o 切换到版本
+  3. git tag 查看所有标签
+  4. git tag -d 标签名
+  5. git push origin 标签名
+  6. 
 
 
 
