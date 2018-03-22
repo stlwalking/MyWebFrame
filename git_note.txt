@@ -1,7 +1,13 @@
  this is my git note 
  
- 1. git add xxx.py
- 2. git commit -m '提示信息'
- 3. git status 
- 4. git log
- 5. git log --pretty=oneline
+ 1.  git add xxx.py
+ 2.  git commit -m '提示信息'
+ 3.  git status 
+ 4.  git log
+ 5.  git log --pretty=oneline
+ 6.  git reset --hard HERA^
+ 7.  git reset --hard HERA^^
+ 8.  git reset --hard HERA^^^
+ 9.  git reset --hard HERA~100
+ 10. git reset --hard 具体版本号
+
