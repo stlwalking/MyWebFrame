@@ -1,2 +1,6 @@
  this is my git note 
-
+ 
+ 1. git add xxx.py
+ 2. git commit -m '提示信息'
+ 3. git status 
+ 4. git log
