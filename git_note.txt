@@ -45,7 +45,7 @@
   5. git push origin 标签名
   6. git tag 标签名 版本id    给版本打标签 
 
-  7.  text
+  7.git  log --graph 查看分支合并情况
 
 
 
